@@ -1,0 +1,127 @@
+>> Mlab_assignment
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			Yes, it is Gaussian, as it failed to reject H0
+		0.02 			Yes, it is Gaussian, as it failed to reject H0
+		0.03 			Yes, it is Gaussian, as it failed to reject H0
+		0.04 			Yes, it is Gaussian, as it failed to reject H0
+		0.05 			Yes, it is Gaussian, as it failed to reject H0
+Loop #1
+
+ans =
+
+    3.3642
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			Yes, it is Gaussian, as it failed to reject H0
+		0.02 			Yes, it is Gaussian, as it failed to reject H0
+		0.03 			Yes, it is Gaussian, as it failed to reject H0
+		0.04 			Yes, it is Gaussian, as it failed to reject H0
+		0.05 			Yes, it is Gaussian, as it failed to reject H0
+Loop #2
+
+ans =
+
+    3.4352
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			Yes, it is Gaussian, as it failed to reject H0
+		0.02 			Yes, it is Gaussian, as it failed to reject H0
+		0.03 			Yes, it is Gaussian, as it failed to reject H0
+		0.04 			Yes, it is Gaussian, as it failed to reject H0
+		0.05 			Yes, it is Gaussian, as it failed to reject H0
+Loop #3
+
+ans =
+
+    3.1695
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #4
+
+ans =
+
+    2.5121
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #5
+
+ans =
+
+    3.5080
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #6
+
+ans =
+
+    2.9950
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #7
+
+ans =
+
+    3.5958
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #8
+
+ans =
+
+    2.9952
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #9
+
+ans =
+
+    3.4502
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0
+Loop #10
+
+ans =
+
+    2.9361
+
+significance level 	| test rejects H0 that data follows a normal distribution
+		0.01 			No, it is not Gaussian, because it does reject H0
+		0.02 			No, it is not Gaussian, because it does reject H0
+		0.03 			No, it is not Gaussian, because it does reject H0
+		0.04 			No, it is not Gaussian, because it does reject H0
+		0.05 			No, it is not Gaussian, because it does reject H0 
